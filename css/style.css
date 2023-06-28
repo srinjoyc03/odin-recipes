@@ -15,3 +15,9 @@ img {
     width: 500px;
     height: auto;
 }
+
+ul,
+ol {
+    font-family: "Garamond", sans-serif;
+    font-weight: bold;
+}
